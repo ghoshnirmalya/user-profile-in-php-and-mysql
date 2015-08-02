@@ -29,3 +29,8 @@ Bootstrap Form Helpers
 Bootstrap Growl
 Gluphicons
 Icomoon
+
+Installation
+============
+
+Create a table named 'userprofile' and import the userprofile.sql file from _sqlfile folder.
