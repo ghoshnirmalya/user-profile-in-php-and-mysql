@@ -5,6 +5,10 @@ A simple User Profile PHP Script.
 
 A PHP script to implement a user profile system where a user can register and create his own portfolio.
 
+N.B.
+====
+Maintainers needed. If you want to contribute to this repository, let me through my email and I can transfer the ownership. Currently, I'm unable to maintain this repo any more. TIA!
+
 Demo
 ====
 
