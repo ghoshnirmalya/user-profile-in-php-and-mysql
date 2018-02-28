@@ -2,7 +2,7 @@
     session_start();
     require '../_database/database.php';
     $user_username=$_SESSION['user_username'];
-    if(isSet($_POST['user_username'])){
+    if(isset($_POST['user_username'])){
         if(!isset($_SERVER['HTTP_X_REQUESTED_WITH']) AND strtolower($_SERVER['HTTP_X_REQUESTED_WITH']) != 'xmlhttprequest') {
             die();
         }
